@@ -1,0 +1,19 @@
+.header {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.haylance {
+    display: flex;
+    align-items: center;
+    font-size: 55px;
+    color: black;
+    cursor: pointer;
+}
+.hy {
+    display: flex;
+}
+.hay {
+    color: green;
+}
